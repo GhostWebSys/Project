@@ -1,7 +1,7 @@
 # Environment
 * ### Ubuntu 18.04
 * ### ROS melodic
-* ### Python3
+* ### python3
 * ### joystick (Logitech Joystick F710 - D mode)
 * ### xdotool
 
