@@ -22,4 +22,4 @@
     ####     $ rosrun joy joy_node
 * ### 3. LG SVL simulator Start.
 * ### 4. run this file and control joystick.
-  ####   $ Python3 joy_control_lgsvlsim.py
+  ####   $ python3 joy_control_lgsvlsim.py
