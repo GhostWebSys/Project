@@ -1,10 +1,13 @@
-# Project
-EX1
+# Environment
+* ## Ubuntu 18.04
+* ## ROS melodic
+* ## Python3
+* ## joystick(Logietch F710 - D mode)
+* ## xdotool
 
-# Environment : Ubuntu 18.04, ROS melodic, Python3, joystick(Logietch F710 - D mode), xdotool
-
-# This file is use xdotool package.
-# ROS (send joystick msg) -> this file (joystick msg receive and convert. and send key msg.) -> LG SVL Simulator
+# Introduction
+* ## This file is use xdotool package.
+* ##  ROS (send joystick msg) -> this file (joystick msg receive and convert. and send key msg.) -> LG SVL Simulator
 
 # How to use
 # 1. Install xdotool package.
