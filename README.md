@@ -16,7 +16,7 @@
 * ### 2. ROS(melodic) Start
   * ####  2-1. Ros start.
     ####     $ roscore
-  * ####  2-2. joystick change chmod 777 (js[x] : [x] is joystick device number)
+  * ####  2-2. joystick change chmod 777 js[x] ([x] is joystick device number)
     ####     $ sudo chmod 777 /dev/input/js0
   * ####  2-3. joy_node start.
     ####     $ rosrun joy joy_node
